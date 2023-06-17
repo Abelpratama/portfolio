@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Abelpratama/myportfolio",
+  "homepage": "https://github.com/Abelpratama/portfolio",
   "devDependencies": {
     "framer-motion": "^8.4.3",
     "react-countup": "^6.4.0",
